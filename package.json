@@ -1,0 +1,23 @@
+{
+  "name": "joi-travel-extentions",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bientehaio/joi-travel-extentions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bientehaio/joi-travel-extentions/issues"
+  },
+  "homepage": "https://github.com/bientehaio/joi-travel-extentions#readme",
+  "dependencies": {
+    "luxon": "^1.3.1",
+    "mongodb": "^3.1.1"
+  }
+}
