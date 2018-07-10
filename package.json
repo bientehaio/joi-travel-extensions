@@ -1,5 +1,5 @@
 {
-  "name": "joi-travel-extentions",
+  "name": "joi-travel-extensions",
   "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bientehaio/joi-travel-extentions.git"
+    "url": "git+https://github.com/bientehaio/joi-travel-extensions.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bientehaio/joi-travel-extentions/issues"
+    "url": "https://github.com/bientehaio/joi-travel-extensions/issues"
   },
-  "homepage": "https://github.com/bientehaio/joi-travel-extentions#readme",
+  "homepage": "https://github.com/bientehaio/joi-travel-extensions#readme",
   "dependencies": {
     "luxon": "^1.3.1",
     "mongodb": "^3.1.1"
